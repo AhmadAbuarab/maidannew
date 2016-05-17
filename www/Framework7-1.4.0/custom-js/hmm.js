@@ -5,7 +5,7 @@
             // this.logInId = "1-1NG1Z";
             this.mode = "Debug";
             this.env = "Dev";
-            this.base_url = this.env == "Dev" ? "http://172.16.2.7:8011/" : "";
+            this.base_url = this.env == "Dev" ? "http://82.212.77.36:8011/" : "";
             this.result="";
             // List Of Services
             this.services = new Object();
