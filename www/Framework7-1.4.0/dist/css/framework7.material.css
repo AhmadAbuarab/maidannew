@@ -689,6 +689,8 @@ p {
   height: 100%;
   position: relative;
   z-index: 1;
+/*  background-color: #00974b;*/
+  background-color: #f3f3f4;
 }
 .page-transitioning {
   -webkit-transition-duration: 300ms;
